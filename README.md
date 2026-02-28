@@ -26,7 +26,6 @@
 | :-- | :------- | :------------------- | :-------------------------------- | :--------------------- |
 | 1   | 23520859 | Nguyễn Phúc Lộc      | https://github.com/katoloc-st     | 23520859@gm.uit.edu.vn |
 | 2   | 23520846 | Lưu Khánh Linh       | https://github.com/linhlk123      | 23520462@gm.uit.edu.vn |
-=======
 # Xây dựng kho dữ liệu và hệ thống OLAP phân tích doanh số sản phẩm thủy lực
 
 ## Giới thiệu
